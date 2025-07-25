@@ -26,6 +26,12 @@ Bu proje, MediaMarkt web sitesinden ⭐️ yıldız ve  müşteri yorumuna sahip
 - **Selenium**
 - **ChromeDriverManager**
 - Web tarayıcısı otomasyonu
+## 📷 Ekran Görselleri
+
+Projenin ekran görüntüleri aşağıdaki PowerPoint dosyasındadır:
+
+📎 [Görseller.pptx]
+
 
 ---
 
